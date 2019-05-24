@@ -1,2 +1,2 @@
 # PwnBoot
-A Work-In-Progress iOS 6 Jailbreak Using a Custom Ramdisk
+An Open-Source Work-In-Progress iOS 6 Jailbreak Using a Custom Ramdisk
