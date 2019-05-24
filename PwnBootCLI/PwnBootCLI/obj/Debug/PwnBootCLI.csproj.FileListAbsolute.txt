@@ -1,0 +1,13 @@
+C:\Users\yello\source\repos\PwnBootCLI\PwnBootCLI\bin\Debug\PwnBootCLI.exe.config
+C:\Users\yello\source\repos\PwnBootCLI\PwnBootCLI\bin\Debug\PwnBootCLI.exe
+C:\Users\yello\source\repos\PwnBootCLI\PwnBootCLI\bin\Debug\PwnBootCLI.pdb
+C:\Users\yello\source\repos\PwnBootCLI\PwnBootCLI\obj\Debug\PwnBootCLI.csprojResolveAssemblyReference.cache
+C:\Users\yello\source\repos\PwnBootCLI\PwnBootCLI\obj\Debug\PwnBootCLI.csproj.CoreCompileInputs.cache
+C:\Users\yello\source\repos\PwnBootCLI\PwnBootCLI\obj\Debug\PwnBootCLI.exe
+C:\Users\yello\source\repos\PwnBootCLI\PwnBootCLI\obj\Debug\PwnBootCLI.pdb
+C:\Users\Tom O'Donnell\source\repos\PwnBootCLI\PwnBootCLI\bin\Debug\PwnBootCLI.exe.config
+C:\Users\Tom O'Donnell\source\repos\PwnBootCLI\PwnBootCLI\bin\Debug\PwnBootCLI.exe
+C:\Users\Tom O'Donnell\source\repos\PwnBootCLI\PwnBootCLI\bin\Debug\PwnBootCLI.pdb
+C:\Users\Tom O'Donnell\source\repos\PwnBootCLI\PwnBootCLI\obj\Debug\PwnBootCLI.csproj.CoreCompileInputs.cache
+C:\Users\Tom O'Donnell\source\repos\PwnBootCLI\PwnBootCLI\obj\Debug\PwnBootCLI.exe
+C:\Users\Tom O'Donnell\source\repos\PwnBootCLI\PwnBootCLI\obj\Debug\PwnBootCLI.pdb
