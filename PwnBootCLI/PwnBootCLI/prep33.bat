@@ -15,7 +15,7 @@ partialzip "http://appldnld.apple.com/iOS7/031-1864.20131114.P3wE4/iPhone3,3_7.0
 
 ::Ramdisk
 xpwntool "ramdisk.dmg" "decramdisk.dmg" -iv 5d018cef7bd97e01d3f461c41a9ded19 -k 9638e18a42cbe483bd8e6794c18807141923e53c61cf5a2ae3f1238ae3e2723d
-hfsplus "decramdisk.dmg" grow 35000000
+hfsplus "decramdisk.dmg" grow 45000000
 hfsplus "decramdisk.dmg" untar "ssh.tar" "/"
 xpwntool "decramdisk.dmg" "encramdisk.dmg" -t "ramdisk.dmg" -iv 5d018cef7bd97e01d3f461c41a9ded19 -k 9638e18a42cbe483bd8e6794c18807141923e53c61cf5a2ae3f1238ae3e2723d
 

@@ -17,7 +17,7 @@ partialzip "http://appldnld.apple.com/iOS5.1.1/041-4347.20120427.o2yov/iPhone2,1
 echo.
 echo Preparing Ramdisk...
 xpwntool ramdisk.dmg ramdisk.dmg.dec -iv 26ec90f47073acaa0826c55bdeddf4bb -k 7af575ca159ba58b852dfe1c6f30c68220a7a94be47ef319ce4f46ba568b7a81 >nul 2>&1
-hfsplus ramdisk.dmg.dec grow 25000000 >nul 2>&1
+hfsplus ramdisk.dmg.dec grow 45000000 >nul 2>&1
 hfsplus ramdisk.dmg.dec untar ssh.tar "/" >nul 2>&1
 move ramdisk.dmg ramdisk.dmg.orig >nul 2>&1
 xpwntool ramdisk.dmg.dec ramdisk.dmg -t ramdisk.dmg.orig -k 7af575ca159ba58b852dfe1c6f30c68220a7a94be47ef319ce4f46ba568b7a81 -iv 26ec90f47073acaa0826c55bdeddf4bb >nul 2>&1
@@ -68,6 +68,7 @@ irecovery -c devicetree
 timeout /t 5 /nobreak > NUL
 echo Sending Ramdisk
 irecovery -f "ramdisk.dmg" 
+timeout /t 5 /nobreak > NUL
 irecovery -c ramdisk 0x90000000
 timeout /t 5 /nobreak > NUL
 echo Sending Kernelcache

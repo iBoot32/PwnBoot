@@ -11,3 +11,10 @@ C:\Users\Tom O'Donnell\source\repos\PwnBootCLI\PwnBootCLI\bin\Debug\PwnBootCLI.p
 C:\Users\Tom O'Donnell\source\repos\PwnBootCLI\PwnBootCLI\obj\Debug\PwnBootCLI.csproj.CoreCompileInputs.cache
 C:\Users\Tom O'Donnell\source\repos\PwnBootCLI\PwnBootCLI\obj\Debug\PwnBootCLI.exe
 C:\Users\Tom O'Donnell\source\repos\PwnBootCLI\PwnBootCLI\obj\Debug\PwnBootCLI.pdb
+C:\Users\Tom O'Donnell\Desktop\PwnBootGit\PwnBootCLI\PwnBootCLI\bin\Debug\PwnBootCLI.exe.config
+C:\Users\Tom O'Donnell\Desktop\PwnBootGit\PwnBootCLI\PwnBootCLI\bin\Debug\PwnBootCLI.exe
+C:\Users\Tom O'Donnell\Desktop\PwnBootGit\PwnBootCLI\PwnBootCLI\bin\Debug\PwnBootCLI.pdb
+C:\Users\Tom O'Donnell\Desktop\PwnBootGit\PwnBootCLI\PwnBootCLI\obj\Debug\PwnBootCLI.csprojAssemblyReference.cache
+C:\Users\Tom O'Donnell\Desktop\PwnBootGit\PwnBootCLI\PwnBootCLI\obj\Debug\PwnBootCLI.csproj.CoreCompileInputs.cache
+C:\Users\Tom O'Donnell\Desktop\PwnBootGit\PwnBootCLI\PwnBootCLI\obj\Debug\PwnBootCLI.exe
+C:\Users\Tom O'Donnell\Desktop\PwnBootGit\PwnBootCLI\PwnBootCLI\obj\Debug\PwnBootCLI.pdb
