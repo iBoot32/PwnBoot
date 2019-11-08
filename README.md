@@ -12,15 +12,15 @@ This tool allows you to Verbose Boot a SSH Ramdisk, and hence get full RootFS ac
 # How To Use
 
 1. Set up a Window 7 Virtual Machine (this is a requirement)
-2. Download the latest release of PwnBoot (found on the Releases Page) to your Windows 7 VM
+2. Download the latest release of PwnBoot (www.pwnboot.tk) to your Windows 7 VM
 3. Connect your iPhone2,1 to your VM in DFU mode
 4. Run `PwnBootCLI` to see a list of uses of PwnBoot
 
 # Common Uses
 
 1. Booting a Custom SSH Ramdisk on your iPhone2,1 (`PwnBootCLI iPhone2,1 -b`)
-2. VERBOSE BOOTING a Custom SSH Ramdisk on your iPhone2,1 (`PwnBootCLO iPhone2,1 -vb`)
-3. Forwarding the resulting SSH connection over USB (`PwnBootCLI iPhone2,1 -j`) (This must be run AFTER booting the SSH Ramdisk using the above commands)
+2. VERBOSE BOOTING a Custom SSH Ramdisk on your iPhone2,1 (`PwnBootCLI iPhone2,1 -vb`)
+3. Forwarding the resulting SSH connection over USB (`PwnBootCLI iPhone2,1 -j`) (This must be run AFTER booting the SSH Ramdisk using one of the above commands)
 
 # How to Boot a Custom SSH Ramdisk and get full filesystem access on your iPhone2,1
 
