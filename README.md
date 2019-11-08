@@ -27,7 +27,7 @@ This tool allows you to Verbose Boot a SSH Ramdisk, and hence get full RootFS ac
 1. `PwnBootCLI iPhone2,1 -vb`
 2. `PwnBootCLI iPhone2,1 -j`
 3. `C:/PwnBoot/itunnel_mux --lport 2022`
-4. SSH into the device **in a new window** (root@127.0.0.1 over port 2022 with password `alpine`)
+4. SSH into the device **in a new CMD window** (root@127.0.0.1 over port 2022 with password `alpine`). Don't close itunnel_mux window until you're done.
 5. Over SSH run `mount.sh` and you will now be able to access the full root filesystem of your device
 
 # Future Plans for this tool
